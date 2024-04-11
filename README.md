@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # 💪 GYMotion
 
-**Welcome to the PowerUp Gym Website Landing Page project! This is a fully responsive website designed for a gym using React, TypeScript, Framer Motion, Heroicons, SCSS, JSX, and FormSubmit to integrate messaging through he contact form to your email. It includes various sections like the home, benefits, our classes, and contact us.**
+**Welcome to the GYMotion Website Landing Page project! This is a fully responsive website designed for a gym using React, TypeScript, Framer Motion, Heroicons, SCSS, JSX, and FormSubmit to integrate messaging through he contact form to your email. It includes various sections like the home, benefits, our classes, and contact us.**
 
 
 <hr>
